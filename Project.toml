@@ -1,0 +1,5 @@
+name = "Capstan"
+uuid = "c60c4074-77f3-11e8-020d-45ec5bdaf2a1"
+
+[deps]
+Cassette = "85a09790-77f0-11e8-0d40-896ec421c84a"
